@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Maple Cafe.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9E2C6B5F216DCD5C00F9E5C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9E2C6B73216DCD5E00F9E5C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9E2C6B7E216DCD5E00F9E5C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
